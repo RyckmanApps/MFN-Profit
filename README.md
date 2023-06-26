@@ -16,8 +16,8 @@ This application is designed to be deployed on a Windows PC. It does not require
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/insurance-profit-calculator.git`
-2. Navigate to the project directory: `cd insurance-profit-calculator`
+1. Clone the repository: `git clone https://github.com/ryckmanapps/MFN-Profit.git`
+2. Navigate to the project directory: `cd MFN-Profit`
 3. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage
