@@ -1,4 +1,4 @@
-# Insurance Profit Calculator
+# MFN-Profit // Insurance Profit Calculator
 
 ## Overview
 
